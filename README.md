@@ -13,8 +13,8 @@ J'ai donc choisi de créer une landing page sur l'eau.
 
 # Preview
 
-![Preview mobile](H2o_version desktop.png)
+![Preview mobile](H2o_desktop.png)
 
-![Preview desktop](H2o_version mobile.png)
+![Preview desktop](H2o_mobile.png)
 
-![Preview desktop](H2o_age de chargement mobile.png)
+![Preview desktop](H2o_chargement.png)
